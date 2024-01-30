@@ -1,5 +1,6 @@
 import Layout from '../components/layout'
 import { motion } from 'framer-motion'
+import { someFunction } from './someModule.js';
 
 export default function Home() {
   return (
